@@ -1,0 +1,12 @@
+.container {
+    width: 466px;
+    height: 466px;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    width: 200px;
+    font-size: 30px;
+    text-align: center;
+}
